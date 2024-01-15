@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "https": "^1.0.0",
+    "proxy-agent": "^6.3.1"
+  }
+}
